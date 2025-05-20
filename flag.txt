@@ -1,4 +1,0 @@
-congratulations! you got it
-
-HTB{lf1_sql1_c0mb0_ch@11enge}
-
