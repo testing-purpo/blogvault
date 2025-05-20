@@ -1,0 +1,6 @@
+Working of the Web
+
+The web works through a simple request-response model. A browser sends a request to a server, which returns HTML, CSS, or data.
+Behind the scenes, sessions, forms, and parameters shape what users see.
+But small missteps — like trusting the wrong input — can change everything. Always know what you're serving.
+                                                                                                                                                      

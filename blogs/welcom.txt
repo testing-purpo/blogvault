@@ -1,0 +1,6 @@
+Welcome to BlogVault 
+
+A lightweight blogging platform for curious minds. Explore posts, read between the lines,
+and see what others overlook. Some content is just for show… some might reveal more than intended.
+The admin probably should’ve secured things better. But hey — learning happens through discovery. Start digging.
+                                                                                                                                                      
