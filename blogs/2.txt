@@ -1,7 +1,0 @@
-Security Tips
-
-Protecting your digital identity is critical. Use strong, unique passwords and enable two-factor authentication.
-Avoid clicking suspicious links or sharing personal data online. Keep software up to date, and don’t ignore browser warnings.
-Most importantly — never trust user input blindly. Sometimes, what breaks your site is what teaches you.                                
-Start reading, stay curious… and maybe uncover something not meant to be found.
-                                                                                                                                                      

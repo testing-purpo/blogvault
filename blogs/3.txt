@@ -1,6 +1,0 @@
-Penetration Testing
-
-Penetration testing simulates real-world attacks to uncover vulnerabilities before malicious hackers do. 
-It’s about thinking like an attacker — probing for weak spots, misconfigurations, or overlooked flaws.
-Whether it’s SQL injection etc , the goal is the same: break it before someone else does. Curiosity fuels every good pentest.
-                                                                                                                                                      
